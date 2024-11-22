@@ -21,3 +21,12 @@ Heute werde ich mich intensiv mit Amazon Web Services (AWS) beschäftigen und mi
 Besonderes Augenmerk lege ich heute auf die Themen Kostenmanagement und Cloud-Migration. Beim Kostenmanagement möchte ich lernen, wie man die Ausgaben für Cloud-Dienste effizient überwachen und steuern kann. Dazu werde ich analysieren, wie sich Kosten je nach Nutzung der Dienste verändern und welche Maßnahmen helfen, unnötige Ausgaben zu vermeiden. Mein Ziel ist es, die wichtigsten Kostentreiber zu verstehen und zu erfahren, wie sich Cloud-Kosten in der Praxis optimieren lassen.
 
 Ein weiteres Schwerpunktthema ist die Cloud-Migration. Hier geht es um die Frage, wie Unternehmen ihre bestehenden Systeme und Anwendungen erfolgreich in die Cloud übertragen können. Ich werde mich mit verschiedenen Migrationsstrategien und den potenziellen Herausforderungen auseinandersetzen, die während der Migration auftreten können. Indem ich die theoretischen Grundlagen mit praxisnahen Beispielen verknüpfe, möchte ich ein umfassendes Verständnis für die Cloud-Migration entwickeln.
+
+
+## 22.11.2024
+
+Heute werde ich mich intensiv mit Frontend-APIs und der Integration in meine Entwicklungsumgebung beschäftigen. Mein Ziel ist es, eine Verbindung zum Schulserver herzustellen und die erforderlichen Erweiterungen einzurichten, um eine nahtlose Arbeitsumgebung zu schaffen. Dabei plane ich, verschiedene Tools und Frameworks zu nutzen, die die Entwicklung und den Umgang mit APIs erleichtern.
+
+Besonderes Augenmerk lege ich heute auf die Themen API-Integration und die Optimierung meiner Entwicklungsumgebung. Bei der API-Integration möchte ich verstehen, wie man Daten effizient zwischen Frontend und Backend austauscht und welche Best Practices es dabei gibt. Ich werde mich damit auseinandersetzen, wie Anfragen strukturiert werden, welche Sicherheitsaspekte wichtig sind und wie man Fehlerbehandlung implementiert. Ziel ist es, eine robuste Verbindung aufzubauen, die in der Praxis stabil und zuverlässig funktioniert.
+
+Ein weiteres Schwerpunktthema ist die Einrichtung und Optimierung meiner Arbeitsumgebung. Hierzu gehört, den Schulserver korrekt einzubinden, relevante Erweiterungen zu installieren und sicherzustellen, dass alle Systeme reibungslos miteinander arbeiten. Durch die Kombination von technischen Grundlagen und praktischen Übungen möchte ich ein tiefes Verständnis für den gesamten Workflow entwickeln und meine Entwicklungsumgebung optimal auf zukünftige Projekte vorbereiten.
