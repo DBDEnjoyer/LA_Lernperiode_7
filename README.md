@@ -1,6 +1,15 @@
 # LA_Lernperiode_7
 
-Grobbeschreibung
+## Grobbeschreibung
+In meiner Lernperiode möchte ich mich intensiv mit der Frontend-Entwicklung und AWS beschäftigen. Mein Ziel ist es, fundierte Kenntnisse in der Webentwicklung zu erlangen, um zu zeigen, dass ich moderne Webseiten gestalten und entwickeln kann. Gleichzeitig möchte ich den Umgang mit AWS erlernen, um Cloud-Dienste effizient zu integrieren. Durch diese Kombination strebe ich an, sowohl im Bereich der Benutzeroberflächen als auch in der Cloud-Infrastruktur kompetent zu werden und meine beruflichen Chancen zu erweitern.
+
+| Modul  | Beschreibung                          | Note  |
+|--------------|---------------------------------------|---------|
+| 346          | AWS  | 5-5,5 |
+| 294           | Frontend entwicklung einer interaktiven Webseite | 5 |
+| 450    |Testen | 4,5  |
+
+
 
 ## 25.10.2024
 Heute werde ich das wichtigste Modul, Modul 320 Objektorientiertes Programmieren, repetieren und mein Wissen wieder auffrischen.
