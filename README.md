@@ -29,4 +29,11 @@ Heute werde ich mich intensiv mit Frontend-APIs und der Integration in meine Ent
 
 Besonderes Augenmerk lege ich heute auf die Themen API-Integration und die Optimierung meiner Entwicklungsumgebung. Bei der API-Integration möchte ich verstehen, wie man Daten effizient zwischen Frontend und Backend austauscht und welche Best Practices es dabei gibt. Ich werde mich damit auseinandersetzen, wie Anfragen strukturiert werden, welche Sicherheitsaspekte wichtig sind und wie man Fehlerbehandlung implementiert. Ziel ist es, eine robuste Verbindung aufzubauen, die in der Praxis stabil und zuverlässig funktioniert.
 
+
+## 29.11.24
+
+Heute werde ich mich intensiv mit Frontend-APIs und der Integration in meine Entwicklungsumgebung beschäftigen, wobei mein Fokus insbesondere auf der Nutzung von AWS liegt. Mein Ziel ist es, eine Verbindung zum Schulserver herzustellen und die erforderlichen Erweiterungen einzurichten, um eine nahtlose Arbeitsumgebung zu schaffen. Darüber hinaus werde ich eine AWS EC2-Instanz einrichten und eine Sicherheitsgruppe konfigurieren, um den Zugriff und die Sicherheit zu gewährleisten. Diese Schritte sollen sicherstellen, dass mein Entwicklungsworkflow sowohl lokal als auch in der Cloud effizient funktioniert.
+
+Ein zentraler Bestandteil meiner heutigen Arbeit wird die API-Integration sein. Ich möchte verstehen, wie Daten effizient zwischen Frontend und Backend ausgetauscht werden können und welche Best Practices es dabei gibt. Dazu gehört die Strukturierung von Anfragen, das Implementieren von Authentifizierungsmechanismen und die Berücksichtigung von Sicherheitsaspekten. Besonders wichtig wird es sein, eine robuste Fehlerbehandlung zu integrieren, damit die Verbindung stabil und zuverlässig bleibt. Ziel ist es, eine Umgebung zu schaffen, in der API-Anfragen sicher und performant verarbeitet werden können.
+
 Ein weiteres Schwerpunktthema ist die Einrichtung und Optimierung meiner Arbeitsumgebung. Hierzu gehört, den Schulserver korrekt einzubinden, relevante Erweiterungen zu installieren und sicherzustellen, dass alle Systeme reibungslos miteinander arbeiten. Durch die Kombination von technischen Grundlagen und praktischen Übungen möchte ich ein tiefes Verständnis für den gesamten Workflow entwickeln und meine Entwicklungsumgebung optimal auf zukünftige Projekte vorbereiten.
