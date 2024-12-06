@@ -46,3 +46,20 @@ Heute werde ich mich intensiv mit Frontend-APIs und der Integration in meine Ent
 Ein zentraler Bestandteil meiner heutigen Arbeit wird die API-Integration sein. Ich möchte verstehen, wie Daten effizient zwischen Frontend und Backend ausgetauscht werden können und welche Best Practices es dabei gibt. Dazu gehört die Strukturierung von Anfragen, das Implementieren von Authentifizierungsmechanismen und die Berücksichtigung von Sicherheitsaspekten. Besonders wichtig wird es sein, eine robuste Fehlerbehandlung zu integrieren, damit die Verbindung stabil und zuverlässig bleibt. Ziel ist es, eine Umgebung zu schaffen, in der API-Anfragen sicher und performant verarbeitet werden können.
 
 Ein weiteres Schwerpunktthema ist die Einrichtung und Optimierung meiner Arbeitsumgebung. Hierzu gehört, den Schulserver korrekt einzubinden, relevante Erweiterungen zu installieren und sicherzustellen, dass alle Systeme reibungslos miteinander arbeiten. Durch die Kombination von technischen Grundlagen und praktischen Übungen möchte ich ein tiefes Verständnis für den gesamten Workflow entwickeln und meine Entwicklungsumgebung optimal auf zukünftige Projekte vorbereiten.
+
+
+## 6.12.24
+Heute habe ich mir bewusst Zeit genommen, mich von den Herausforderungen mit dem AWS-Modul zu erholen, das immer wieder meinen Fortschritt gelöscht hat. Diese Frustration hat sich auf meine Motivation und Effizienz ausgewirkt, weshalb ich mich entschieden habe, den Tag in einem ruhigeren Tempo zu gestalten und den Fokus stärker auf theoretisches Lernen zu legen.
+
+Ich habe mich heute intensiv mit der Theorie zu Testmodulen beschäftigt, insbesondere mit den verschiedenen Testarten und Testmodellen. Ziel war es, ein besseres Verständnis für die Grundlagen und die Bedeutung von Tests in der Softwareentwicklung zu entwickeln. Dabei habe ich mich unter anderem mit den Unterschieden zwischen Unit-Tests, Integrationstests und End-to-End-Tests auseinandergesetzt. Diese theoretische Basis hat mir geholfen, die Rolle von Tests im gesamten Entwicklungsprozess besser zu begreifen.
+
+Ein weiterer Schwerpunkt war das Thema Mocking. Ich habe mir die fünf Objektarten im Kontext von Mocking angeschaut, darunter Dummy-Objekte, Stub-Objekte, Fake-Objekte, Spy-Objekte und Mock-Objekte. Danach habe ich praktisch begonnen, ein eigenes Mock-Objekt zu erstellen, um die Theorie anzuwenden und zu verstehen, wie Mocking in der Praxis funktioniert. Dies war besonders spannend, da es mir erlaubt hat, komplexe Abhängigkeiten zu simulieren und so den Testprozess zu vereinfachen.
+
+Obwohl der Tag weniger produktiv war, als ich es mir erhofft hatte, hat mir die Beschäftigung mit der Theorie und das praktische Arbeiten mit Mocking geholfen, mein Wissen zu erweitern und neue Ansätze zu lernen, die ich in zukünftigen Projekten nutzen kann.
+
+- [x] Theorie Testarten 
+- [x] Theorie Testmodelle 
+- [x] Theorie Mocking 
+- [] Implementierung Mockingobjektes 
+
+
