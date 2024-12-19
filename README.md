@@ -62,4 +62,16 @@ Obwohl der Tag weniger produktiv war, als ich es mir erhofft hatte, hat mir die 
 - [x] Theorie Mocking 
 - [] Implementierung Mockingobjektes 
 
+## 12.12.24
+Heute habe ich mir vorgenommen, eine Webseite für meinen Großvater zu erstellen, mit der man die tatsächliche Windgeschwindigkeit berechnen kann, indem die Geschwindigkeit des Bootes und der gefühlte Wind berücksichtigt werden. Mein ursprünglicher Plan war, die Webseite nicht nur zu programmieren, sondern auch direkt online zu stellen, damit mein Großvater sie sofort nutzen kann.
+
+Ich habe damit begonnen, die Logik zur Berechnung der Windgeschwindigkeit in den Code einzubinden. Hierbei ging es vor allem darum, verschiedene Eingabeparameter (wie Boots- und Windgeschwindigkeit) miteinander zu verrechnen und diese sinnvoll darzustellen. Mir war es wichtig, dass die Bedienung der Webseite möglichst intuitiv ist und das Ergebnis klar verständlich präsentiert wird.
+
+Nachdem ich den Kern des Programms fertiggestellt hatte, habe ich mich auf das Design und die Nutzerführung konzentriert. Dabei standen Übersichtlichkeit und einfache Handhabung im Vordergrund. Trotz sorgfältiger Planung habe ich es heute leider nicht mehr geschafft, die Seite online zu stellen. Zwar funktioniert sie lokal problemlos, doch die Veröffentlichung im Netz blieb aufgrund von Zeitmangel und technischen Hürden erst einmal aus.
+
+Obwohl ich mein Ziel, die Webseite online verfügbar zu machen, nicht erreicht habe, bin ich dennoch zufrieden mit dem, was ich heute geschaffen habe. Die Grundlage ist gelegt, und in den kommenden Tagen werde ich mich um das Hosting und die letzten Details kümmern, damit mein Großvater bald von dem praktischen Tool profitieren kann.
+
+- [x] Webseite programmieren  
+- [] Webseite online stellen
+
 
