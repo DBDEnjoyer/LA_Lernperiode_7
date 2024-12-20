@@ -60,7 +60,7 @@ Obwohl der Tag weniger produktiv war, als ich es mir erhofft hatte, hat mir die 
 - [x] Theorie Testarten 
 - [x] Theorie Testmodelle 
 - [x] Theorie Mocking 
-- [] Implementierung Mockingobjektes 
+- [ ] Implementierung Mockingobjektes 
 
 ## 12.12.24
 Heute habe ich mir vorgenommen, eine Webseite für meinen Großvater zu erstellen, mit der man die tatsächliche Windgeschwindigkeit berechnen kann, indem die Geschwindigkeit des Bootes und der gefühlte Wind berücksichtigt werden. Mein ursprünglicher Plan war, die Webseite nicht nur zu programmieren, sondern auch direkt online zu stellen, damit mein Großvater sie sofort nutzen kann.
@@ -72,6 +72,11 @@ Nachdem ich den Kern des Programms fertiggestellt hatte, habe ich mich auf das D
 Obwohl ich mein Ziel, die Webseite online verfügbar zu machen, nicht erreicht habe, bin ich dennoch zufrieden mit dem, was ich heute geschaffen habe. Die Grundlage ist gelegt, und in den kommenden Tagen werde ich mich um das Hosting und die letzten Details kümmern, damit mein Großvater bald von dem praktischen Tool profitieren kann.
 
 - [x] Webseite programmieren  
-- [] Webseite online stellen
+- [ ] Webseite online stellen
 
 
+## 20.12.24
+
+Heute werde ich die Webseite, die ich letztes Mal erstellt habe, via GitHub hosten. Mein Ziel ist es, die Anwendung öffentlich zugänglich zu machen, damit mein Großvater und andere Interessierte diese nutzen können. Ich hoffe, dass der Hosting-Prozess reibungslos verläuft und die Seite bald live ist.
+
+- [] Webseite auf GitHub hosten
